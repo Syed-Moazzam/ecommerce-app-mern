@@ -13,31 +13,29 @@ export const ProductCard = ({ product }: { product: Product }) => {
   const outOfStock = product.stock <= 0;
 
   return (
-    <div className="group card-surface overflow-hidden transition-shadow hover:shadow-lift">
-      <Link to={`/product/${product.slug}`} className="block">
-        <div className="relative aspect-square overflow-hidden bg-surface-muted">
-          <ProductImage
-            src={product.images[0]}
-            alt={product.name}
-            className="h-full w-full transition-transform duration-500 group-hover:scale-105"
-          />
-          <div className="absolute left-3 top-3 flex gap-2">
-            {onSale && <Badge tone="danger">Sale</Badge>}
-            {product.featured && !onSale && <Badge tone="brand">Featured</Badge>}
-            {outOfStock && <Badge tone="neutral">Sold out</Badge>}
-          </div>
+    <Link
+      to={`/product/${product.slug}`}
+      className="group card-surface block overflow-hidden transition-shadow hover:shadow-lift"
+    >
+      <div className="relative aspect-square overflow-hidden bg-surface-muted">
+        <ProductImage
+          src={product.images[0]}
+          alt={product.name}
+          className="h-full w-full transition-transform duration-500 group-hover:scale-105"
+        />
+        <div className="absolute left-3 top-3 flex gap-2">
+          {onSale && <Badge tone="danger">Sale</Badge>}
+          {product.featured && !onSale && <Badge tone="brand">Featured</Badge>}
+          {outOfStock && <Badge tone="neutral">Sold out</Badge>}
         </div>
-      </Link>
+      </div>
       <div className="flex flex-col gap-2 p-4">
         {product.brand && (
           <span className="text-xs font-medium text-ink-muted">{product.brand}</span>
         )}
-        <Link
-          to={`/product/${product.slug}`}
-          className="line-clamp-2 text-sm font-semibold text-ink hover:text-brand-700"
-        >
+        <span className="line-clamp-2 text-sm font-semibold text-ink group-hover:text-brand-700">
           {product.name}
-        </Link>
+        </span>
         <div className="mt-1 flex items-end justify-between">
           <div className="flex items-baseline gap-2">
             <span className="text-lg font-bold text-ink">{formatPrice(product.price)}</span>
@@ -50,7 +48,9 @@ export const ProductCard = ({ product }: { product: Product }) => {
           <button
             type="button"
             disabled={outOfStock}
-            onClick={() => {
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
               addItem(product);
               toast.success('Added to cart');
             }}
@@ -61,6 +61,6 @@ export const ProductCard = ({ product }: { product: Product }) => {
           </button>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
