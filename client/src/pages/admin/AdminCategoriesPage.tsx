@@ -7,6 +7,7 @@ import { ProductImage } from '../../components/ProductImage';
 import { Input } from '../../components/ui/Input';
 import { Button } from '../../components/ui/Button';
 import { PageLoader } from '../../components/ui/Spinner';
+import { ConfirmModal } from '../../components/ui/ConfirmModal';
 import { ImageUploader } from '../../components/admin/ImageUploader';
 
 interface FormState {
@@ -22,6 +23,9 @@ export const AdminCategoriesPage = () => {
   const [editing, setEditing] = useState<Category | null>(null);
   const [form, setForm] = useState<FormState>({ name: '', description: '', image: '' });
   const [saving, setSaving] = useState(false);
+  const [uploadingImage, setUploadingImage] = useState(false);
+  const [confirmDelete, setConfirmDelete] = useState<Category | null>(null);
+  const [deleting, setDeleting] = useState(false);
 
   const load = () => {
     setLoading(true);
@@ -32,16 +36,19 @@ export const AdminCategoriesPage = () => {
   const openCreate = () => {
     setEditing(null);
     setForm({ name: '', description: '', image: '' });
+    setUploadingImage(false);
     setModalOpen(true);
   };
   const openEdit = (cat: Category) => {
     setEditing(cat);
     setForm({ name: cat.name, description: cat.description ?? '', image: cat.image ?? '' });
+    setUploadingImage(false);
     setModalOpen(true);
   };
 
   const handleSave = async (e: React.FormEvent) => {
     e.preventDefault();
+    if (uploadingImage) return toast.error('Please wait for the image to finish uploading');
     if (!form.name.trim()) return toast.error('Category name is required');
     setSaving(true);
     try {
@@ -61,14 +68,18 @@ export const AdminCategoriesPage = () => {
     }
   };
 
-  const handleDelete = async (cat: Category) => {
-    if (!window.confirm(`Delete "${cat.name}"?`)) return;
+  const handleDelete = async () => {
+    if (!confirmDelete) return;
+    setDeleting(true);
     try {
-      await api.delete(`/categories/${cat._id}`);
+      await api.delete(`/categories/${confirmDelete._id}`);
       toast.success('Category deleted');
-      setCategories((prev) => prev.filter((c) => c._id !== cat._id));
+      setCategories((prev) => prev.filter((c) => c._id !== confirmDelete._id));
     } catch (err) {
       toast.error(getErrorMessage(err));
+    } finally {
+      setDeleting(false);
+      setConfirmDelete(null);
     }
   };
 
@@ -87,7 +98,11 @@ export const AdminCategoriesPage = () => {
       ) : (
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {categories.map((cat) => (
-            <div key={cat._id} className="card-surface flex items-center gap-4 p-4">
+            <div
+              key={cat._id}
+              onClick={() => openEdit(cat)}
+              className="card-surface flex cursor-pointer items-center gap-4 p-4 hover:bg-surface-subtle"
+            >
               <div className="h-16 w-16 flex-shrink-0 overflow-hidden rounded-xl bg-surface-muted">
                 <ProductImage src={cat.image} alt={cat.name} className="h-full w-full" />
               </div>
@@ -95,11 +110,11 @@ export const AdminCategoriesPage = () => {
                 <p className="truncate font-semibold text-ink">{cat.name}</p>
                 <p className="line-clamp-1 text-sm text-ink-muted">{cat.description || 'No description'}</p>
               </div>
-              <div className="flex flex-col gap-1">
+              <div className="flex flex-col gap-1" onClick={(e) => e.stopPropagation()}>
                 <button onClick={() => openEdit(cat)} className="flex h-8 w-8 items-center justify-center rounded-lg text-ink-soft hover:bg-surface-muted" aria-label="Edit">
                   <Pencil className="h-4 w-4" />
                 </button>
-                <button onClick={() => handleDelete(cat)} className="flex h-8 w-8 items-center justify-center rounded-lg text-rose-600 hover:bg-rose-50" aria-label="Delete">
+                <button onClick={() => setConfirmDelete(cat)} className="flex h-8 w-8 items-center justify-center rounded-lg text-rose-600 hover:bg-rose-50" aria-label="Delete">
                   <Trash2 className="h-4 w-4" />
                 </button>
               </div>
@@ -133,18 +148,32 @@ export const AdminCategoriesPage = () => {
                 <ImageUploader
                   images={form.image ? [form.image] : []}
                   onChange={(imgs) => setForm((f) => ({ ...f, image: imgs[0] ?? '' }))}
+                  onUploadingChange={setUploadingImage}
                   folder="ecommerce/categories"
                   max={1}
                 />
               </div>
               <div className="flex justify-end gap-3 pt-2">
                 <Button type="button" variant="outline" onClick={() => setModalOpen(false)}>Cancel</Button>
-                <Button type="submit" loading={saving}>{editing ? 'Save' : 'Create'}</Button>
+                <Button type="submit" loading={saving} disabled={uploadingImage}>
+                  {uploadingImage ? 'Uploading image…' : editing ? 'Save' : 'Create'}
+                </Button>
               </div>
             </form>
           </div>
         </div>
       )}
+
+      <ConfirmModal
+        open={Boolean(confirmDelete)}
+        title="Delete category"
+        description={`Delete "${confirmDelete?.name}"? This cannot be undone.`}
+        confirmLabel="Delete"
+        tone="danger"
+        loading={deleting}
+        onConfirm={handleDelete}
+        onCancel={() => setConfirmDelete(null)}
+      />
     </div>
   );
 };

@@ -1,5 +1,5 @@
 import { useEffect, useState, useCallback } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { Plus, Pencil, Trash2, Search } from 'lucide-react';
 import toast from 'react-hot-toast';
 import { api, getErrorMessage } from '../../lib/api';
@@ -11,17 +11,22 @@ import { Button } from '../../components/ui/Button';
 import { PageLoader } from '../../components/ui/Spinner';
 import { Pagination } from '../../components/ui/Pagination';
 import { Tabs } from '../../components/ui/Tabs';
+import { ConfirmModal } from '../../components/ui/ConfirmModal';
 import { useCategories } from '../../hooks/useCategories';
 
 const PAGE_SIZE = 10;
 
 export const AdminProductsPage = () => {
+  const navigate = useNavigate();
   const { categories } = useCategories();
   const [products, setProducts] = useState<Product[]>([]);
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState('');
-  const [category, setCategory] = useState('');
+  const [searchParams, setSearchParams] = useSearchParams();
+  const category = searchParams.get('category') ?? '';
+  const setCategory = (value: string) => setSearchParams(value ? { category: value } : {});
   const [deleting, setDeleting] = useState<string | null>(null);
+  const [confirmDelete, setConfirmDelete] = useState<{ id: string; name: string } | null>(null);
   const [page, setPage] = useState(1);
   const [pages, setPages] = useState(1);
 
@@ -45,8 +50,9 @@ export const AdminProductsPage = () => {
     return () => clearTimeout(t);
   }, [load]);
 
-  const handleDelete = async (id: string, name: string) => {
-    if (!window.confirm(`Delete "${name}"? This cannot be undone.`)) return;
+  const handleDelete = async () => {
+    if (!confirmDelete) return;
+    const { id } = confirmDelete;
     setDeleting(id);
     try {
       await api.delete(`/products/${id}`);
@@ -60,6 +66,7 @@ export const AdminProductsPage = () => {
       toast.error(getErrorMessage(err));
     } finally {
       setDeleting(null);
+      setConfirmDelete(null);
     }
   };
 
@@ -112,7 +119,11 @@ export const AdminProductsPage = () => {
               </thead>
               <tbody className="divide-y divide-line">
                 {products.map((p) => (
-                  <tr key={p._id} className="hover:bg-surface-subtle">
+                  <tr
+                    key={p._id}
+                    onClick={() => navigate(`/admin/products/${p._id}/edit`)}
+                    className="cursor-pointer hover:bg-surface-subtle"
+                  >
                     <td className="px-4 py-3">
                       <div className="flex items-center gap-3">
                         <div className="h-11 w-11 flex-shrink-0 overflow-hidden rounded-lg bg-surface-muted">
@@ -133,7 +144,7 @@ export const AdminProductsPage = () => {
                     <td className="px-4 py-3">
                       {p.stock <= 0 ? <Badge tone="danger">Sold out</Badge> : <Badge tone="success">Active</Badge>}
                     </td>
-                    <td className="px-4 py-3">
+                    <td className="px-4 py-3" onClick={(e) => e.stopPropagation()}>
                       <div className="flex justify-end gap-1">
                         <Link
                           to={`/admin/products/${p._id}/edit`}
@@ -143,7 +154,7 @@ export const AdminProductsPage = () => {
                           <Pencil className="h-4 w-4" />
                         </Link>
                         <button
-                          onClick={() => handleDelete(p._id, p.name)}
+                          onClick={() => setConfirmDelete({ id: p._id, name: p.name })}
                           disabled={deleting === p._id}
                           className="flex h-9 w-9 items-center justify-center rounded-lg text-rose-600 hover:bg-rose-50 disabled:opacity-50"
                           aria-label="Delete"
@@ -160,6 +171,17 @@ export const AdminProductsPage = () => {
           <Pagination page={page} pages={pages} onPageChange={setPage} className="border-t border-line py-4" />
         </div>
       )}
+
+      <ConfirmModal
+        open={Boolean(confirmDelete)}
+        title="Delete product"
+        description={`Delete "${confirmDelete?.name}"? This cannot be undone.`}
+        confirmLabel="Delete"
+        tone="danger"
+        loading={deleting === confirmDelete?.id}
+        onConfirm={handleDelete}
+        onCancel={() => setConfirmDelete(null)}
+      />
     </div>
   );
 };

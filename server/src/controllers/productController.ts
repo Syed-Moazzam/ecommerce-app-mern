@@ -36,11 +36,14 @@ export const getProducts = asyncHandler(async (req: Request, res: Response) => {
     if (maxPrice) filter.price.$lte = Number(maxPrice);
   }
 
+  // _id is appended as a tiebreaker on every option: ties on the primary key
+  // (e.g. many seeded products sharing one createdAt) otherwise have no
+  // guaranteed stable order across separate skip/limit page requests.
   const sortMap: Record<string, Record<string, 1 | -1>> = {
-    newest: { createdAt: -1 },
-    'price-asc': { price: 1 },
-    'price-desc': { price: -1 },
-    'name-asc': { name: 1 },
+    newest: { createdAt: -1, _id: -1 },
+    'price-asc': { price: 1, _id: 1 },
+    'price-desc': { price: -1, _id: 1 },
+    'name-asc': { name: 1, _id: 1 },
   };
 
   const pageNum = Math.max(1, Number(page));
@@ -68,6 +71,13 @@ export const getProducts = asyncHandler(async (req: Request, res: Response) => {
 // GET /api/products/:slug
 export const getProductBySlug = asyncHandler(async (req: Request, res: Response) => {
   const product = await Product.findOne({ slug: req.params.slug }).populate('category', 'name slug');
+  if (!product) throw new ApiError(404, 'Product not found');
+  res.json({ success: true, product });
+});
+
+// GET /api/products/id/:id (admin)
+export const getProductById = asyncHandler(async (req: Request, res: Response) => {
+  const product = await Product.findById(req.params.id).populate('category', 'name slug');
   if (!product) throw new ApiError(404, 'Product not found');
   res.json({ success: true, product });
 });

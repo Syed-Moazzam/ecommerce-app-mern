@@ -15,7 +15,7 @@ export const HomePage = () => {
 
   useEffect(() => {
     api
-      .get('/products', { params: { featured: true, limit: 8 } })
+      .get('/products', { params: { featured: true, limit: 12 } })
       .then(({ data }) => setFeatured(data.products))
       .catch(() => setFeatured([]))
       .finally(() => setLoading(false));

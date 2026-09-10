@@ -97,12 +97,12 @@ export const AdminLayout = () => {
       )}
 
       {/* Content */}
-      <div className="flex flex-1 flex-col lg:pl-64">
+      <div className="flex min-w-0 flex-1 flex-col lg:pl-64">
         <header className="sticky top-0 z-30 flex h-16 items-center gap-3 border-b border-line bg-white px-4 lg:hidden">
           <button onClick={() => setOpen(true)} className="text-ink-soft"><Menu className="h-6 w-6" /></button>
           <span className="font-display text-lg font-extrabold">Voltix Admin</span>
         </header>
-        <main className="flex-1 p-4 sm:p-6 lg:p-8">
+        <main className="min-w-0 flex-1 p-4 sm:p-6 lg:p-8">
           <Outlet />
         </main>
       </div>

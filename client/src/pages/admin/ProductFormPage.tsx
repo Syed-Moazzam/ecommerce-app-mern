@@ -41,6 +41,7 @@ export const ProductFormPage = () => {
   const [categories, setCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState(isEdit);
   const [saving, setSaving] = useState(false);
+  const [uploadingImages, setUploadingImages] = useState(false);
 
   useEffect(() => {
     api.get('/categories').then(({ data }) => {
@@ -53,16 +54,10 @@ export const ProductFormPage = () => {
 
   useEffect(() => {
     if (!isEdit) return;
-    // Editing: fetch by id via the products list (find), then hydrate.
     api
-      .get('/products', { params: { limit: 50 } })
+      .get(`/products/id/${id}`)
       .then(({ data }) => {
-        const p = data.products.find((x: { _id: string }) => x._id === id);
-        if (!p) {
-          toast.error('Product not found');
-          navigate('/admin/products');
-          return;
-        }
+        const p = data.product;
         setForm({
           name: p.name,
           brand: p.brand ?? '',
@@ -75,6 +70,10 @@ export const ProductFormPage = () => {
           images: p.images ?? [],
         });
       })
+      .catch(() => {
+        toast.error('Product not found');
+        navigate('/admin/products');
+      })
       .finally(() => setLoading(false));
   }, [id, isEdit, navigate]);
 
@@ -83,6 +82,10 @@ export const ProductFormPage = () => {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    if (uploadingImages) {
+      toast.error('Please wait for images to finish uploading');
+      return;
+    }
     if (!form.name || !form.description || !form.price || !form.category) {
       toast.error('Please fill in name, description, price and category');
       return;
@@ -107,7 +110,8 @@ export const ProductFormPage = () => {
         await api.post('/products', payload);
         toast.success('Product created');
       }
-      navigate('/admin/products');
+      const categorySlug = categories.find((c) => c._id === form.category)?.slug;
+      navigate(categorySlug ? `/admin/products?category=${categorySlug}` : '/admin/products');
     } catch (err) {
       toast.error(getErrorMessage(err));
     } finally {
@@ -127,7 +131,7 @@ export const ProductFormPage = () => {
       <form onSubmit={handleSubmit} className="mt-6 space-y-6">
         <div className="card-surface p-6">
           <h2 className="mb-4 text-sm font-semibold uppercase tracking-wide text-ink-muted">Product images</h2>
-          <ImageUploader images={form.images} onChange={(imgs) => set('images', imgs)} />
+          <ImageUploader images={form.images} onChange={(imgs) => set('images', imgs)} onUploadingChange={setUploadingImages} />
         </div>
 
         <div className="card-surface space-y-4 p-6">
@@ -177,7 +181,9 @@ export const ProductFormPage = () => {
 
         <div className="flex justify-end gap-3">
           <Link to="/admin/products"><Button type="button" variant="outline">Cancel</Button></Link>
-          <Button type="submit" loading={saving}>{isEdit ? 'Save changes' : 'Create product'}</Button>
+          <Button type="submit" loading={saving} disabled={uploadingImages}>
+            {uploadingImages ? 'Uploading images…' : isEdit ? 'Save changes' : 'Create product'}
+          </Button>
         </div>
       </form>
     </div>

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { ShoppingCart, User as UserIcon, Menu, X, LogOut, LayoutDashboard, Zap } from 'lucide-react';
 import { useCart } from '../../context/CartContext';
@@ -15,6 +15,7 @@ export const Navbar = () => {
   const { user, isAdmin, logout } = useAuth();
   const [mobileOpen, setMobileOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const menuRef = useRef<HTMLDivElement>(null);
   const navigate = useNavigate();
 
   const handleLogout = () => {
@@ -22,6 +23,17 @@ export const Navbar = () => {
     setMenuOpen(false);
     navigate('/');
   };
+
+  useEffect(() => {
+    if (!menuOpen) return;
+    const handleClickOutside = (event: MouseEvent) => {
+      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
+        setMenuOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [menuOpen]);
 
   return (
     <header className="sticky top-0 z-40 border-b border-line bg-white/90 backdrop-blur">
@@ -68,7 +80,7 @@ export const Navbar = () => {
           )}
 
           {user ? (
-            <div className="relative hidden md:block">
+            <div ref={menuRef} className="relative hidden md:block">
               <button
                 onClick={() => setMenuOpen((v) => !v)}
                 className="flex h-10 items-center gap-2 rounded-xl px-3 text-sm font-medium text-ink-soft hover:bg-surface-muted"
@@ -79,39 +91,36 @@ export const Navbar = () => {
                 <span className="max-w-24 truncate">{user.name.split(' ')[0]}</span>
               </button>
               {menuOpen && (
-                <>
-                  <div className="fixed inset-0 z-10" onClick={() => setMenuOpen(false)} />
-                  <div className="absolute right-0 z-20 mt-2 w-52 overflow-hidden rounded-xl border border-line bg-white shadow-card">
-                    <div className="border-b border-line px-4 py-3">
-                      <p className="truncate text-sm font-semibold text-ink">{user.name}</p>
-                      <p className="truncate text-xs text-ink-muted">{user.email}</p>
-                    </div>
-                    {isAdmin && (
-                      <Link
-                        to="/admin"
-                        onClick={() => setMenuOpen(false)}
-                        className="flex items-center gap-2 px-4 py-2.5 text-sm text-ink-soft hover:bg-surface-muted"
-                      >
-                        <LayoutDashboard className="h-4 w-4" /> Admin dashboard
-                      </Link>
-                    )}
-                    {!isAdmin && (
-                      <Link
-                        to="/orders"
-                        onClick={() => setMenuOpen(false)}
-                        className="flex items-center gap-2 px-4 py-2.5 text-sm text-ink-soft hover:bg-surface-muted"
-                      >
-                        <ShoppingCart className="h-4 w-4" /> My orders
-                      </Link>
-                    )}
-                    <button
-                      onClick={handleLogout}
-                      className="flex w-full items-center gap-2 px-4 py-2.5 text-sm text-rose-600 hover:bg-rose-50"
-                    >
-                      <LogOut className="h-4 w-4" /> Sign out
-                    </button>
+                <div className="absolute right-0 z-20 mt-2 w-52 overflow-hidden rounded-xl border border-line bg-white shadow-card">
+                  <div className="border-b border-line px-4 py-3">
+                    <p className="truncate text-sm font-semibold text-ink">{user.name}</p>
+                    <p className="truncate text-xs text-ink-muted">{user.email}</p>
                   </div>
-                </>
+                  {isAdmin && (
+                    <Link
+                      to="/admin"
+                      onClick={() => setMenuOpen(false)}
+                      className="flex items-center gap-2 px-4 py-2.5 text-sm text-ink-soft hover:bg-surface-muted"
+                    >
+                      <LayoutDashboard className="h-4 w-4" /> Admin dashboard
+                    </Link>
+                  )}
+                  {!isAdmin && (
+                    <Link
+                      to="/orders"
+                      onClick={() => setMenuOpen(false)}
+                      className="flex items-center gap-2 px-4 py-2.5 text-sm text-ink-soft hover:bg-surface-muted"
+                    >
+                      <ShoppingCart className="h-4 w-4" /> My orders
+                    </Link>
+                  )}
+                  <button
+                    onClick={handleLogout}
+                    className="flex w-full items-center gap-2 px-4 py-2.5 text-sm text-rose-600 hover:bg-rose-50"
+                  >
+                    <LogOut className="h-4 w-4" /> Sign out
+                  </button>
+                </div>
               )}
             </div>
           ) : (

@@ -9,11 +9,12 @@ interface Props {
   onChange: (images: string[]) => void;
   folder?: string;
   max?: number;
+  onUploadingChange?: (uploading: boolean) => void;
 }
 
 // Uploads selected files to the server, which streams them to Cloudinary and
 // returns the secure URLs. Those URLs are what get stored on the product.
-export const ImageUploader = ({ images, onChange, folder = 'ecommerce/products', max = 6 }: Props) => {
+export const ImageUploader = ({ images, onChange, folder = 'ecommerce/products', max = 6, onUploadingChange }: Props) => {
   const inputRef = useRef<HTMLInputElement>(null);
   const [uploading, setUploading] = useState(false);
 
@@ -30,6 +31,7 @@ export const ImageUploader = ({ images, onChange, folder = 'ecommerce/products',
     formData.append('folder', folder);
 
     setUploading(true);
+    onUploadingChange?.(true);
     try {
       const { data } = await api.post('/upload', formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
@@ -40,6 +42,7 @@ export const ImageUploader = ({ images, onChange, folder = 'ecommerce/products',
       toast.error(getErrorMessage(err));
     } finally {
       setUploading(false);
+      onUploadingChange?.(false);
       if (inputRef.current) inputRef.current.value = '';
     }
   };
@@ -90,7 +93,7 @@ export const ImageUploader = ({ images, onChange, folder = 'ecommerce/products',
         onChange={(e) => handleFiles(e.target.files)}
       />
       <p className="mt-2 text-xs text-ink-muted">
-        JPG, PNG, WEBP or AVIF · up to {max} images · stored on Cloudinary
+        JPG, PNG, WEBP or AVIF · up to {max} images
       </p>
     </div>
   );

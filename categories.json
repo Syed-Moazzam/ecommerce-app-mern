@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "name": "AirPods",
+  "slug": "airpods",
+  "description": "True wireless earbuds and charging cases.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075834/ecommerce/categories/k4qy8ruyopei2q3tqeli.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:30:37.407Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "name": "Camera",
+  "slug": "camera",
+  "description": "DSLR, mirrorless, instant and action cameras plus accessories.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075849/ecommerce/categories/hadlulapn2kgznck6ul7.jpg",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:30:50.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "name": "Earphones",
+  "slug": "earphones",
+  "description": "Wireless neckbands and on-ear headphones.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075890/ecommerce/categories/iujxfuhldrbvtn5scgx2.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:31:31.887Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "name": "Mobile",
+  "slug": "mobile",
+  "description": "Smartphones from realme and Samsung.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075917/ecommerce/categories/t34gfoxtfg85jlqflahb.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:31:58.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "name": "Mouse",
+  "slug": "mouse",
+  "description": "Wired and wireless computer mice.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075974/ecommerce/categories/vcjqejdvqys8192sd85n.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:32:58.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e13"
+  },
+  "name": "Printers",
+  "slug": "printers",
+  "description": "All-in-one inkjet printers.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075996/ecommerce/categories/qvh7opuokmgvu0rlgf15.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:33:17.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e14"
+  },
+  "name": "Processor",
+  "slug": "processor",
+  "description": "Desktop CPUs.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789076007/ecommerce/categories/xxibbeebkjaeyaxc7crb.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:33:28.485Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "name": "Refrigerator",
+  "slug": "refrigerator",
+  "description": "Single and double door refrigerators.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789076023/ecommerce/categories/r94xhvmrldf0riyrviuh.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:33:45.377Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "name": "Speakers",
+  "slug": "speakers",
+  "description": "Portable and home Bluetooth speakers.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789076035/ecommerce/categories/ltu50z5mqwfccjcoftsp.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:33:56.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "name": "Trimmers",
+  "slug": "trimmers",
+  "description": "Grooming trimmers and clippers.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789076076/ecommerce/categories/lvnrldps7ikdjpdlyqzz.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:34:37.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "name": "TV",
+  "slug": "tv",
+  "description": "HD, 4K, QLED and OLED smart televisions.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789076059/ecommerce/categories/oqxm85nqgwop9hzkasld.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:34:20.051Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "name": "Watches",
+  "slug": "watches",
+  "description": "Bluetooth-calling smartwatches.",
+  "image": "https://res.cloudinary.com/dugwko0yj/image/upload/v1789076086/ecommerce/categories/ky76qpjppugqon09lc9c.webp",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.901Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:34:47.267Z"
+  }
+}]

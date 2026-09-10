@@ -1,0 +1,3992 @@
+[{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e1d"
+  },
+  "name": "boAt Airdopes 111",
+  "slug": "boat-airdopes-111-0c7e1d",
+  "description": "Everyday true wireless earbuds with boAt Signature Sound, Insta Wake N Pair and a pocket-friendly charging case.",
+  "price": 17.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070894/ecommerce/products/ym696levaascxl1klhjz.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070894/ecommerce/products/v3q3smcpxyed8mxedqxv.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070894/ecommerce/products/qijmlis6p5ltwkfgml0r.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070894/ecommerce/products/jsowcoot1yycmkuwmdmi.webp"
+  ],
+  "stock": 80,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:08:17.531Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e1e"
+  },
+  "name": "boAt Airdopes 115",
+  "slug": "boat-airdopes-115-0c7e1e",
+  "description": "Compact TWS earbuds tuned for boAt Signature Sound with quick auto-pairing and all-day comfort.",
+  "price": 16.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070936/ecommerce/products/gyptlivafzf75vhgj9f9.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070936/ecommerce/products/gqa4rxudndousmbhwoqz.webp"
+  ],
+  "stock": 90,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:08:58.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e1f"
+  },
+  "name": "boAt Airdopes 121 v2",
+  "slug": "boat-airdopes-121-v2-0c7e1f",
+  "description": "Refreshed budget earbuds delivering punchy Signature Sound with Insta Wake N Pair and Type-C charging.",
+  "price": 15.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070967/ecommerce/products/blfeeh6myqyblfl3qfqp.webp"
+  ],
+  "stock": 100,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:09:28.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e20"
+  },
+  "name": "boAt Airdopes 131",
+  "slug": "boat-airdopes-131-0c7e20",
+  "description": "Fan-favourite earbuds with 13mm drivers, bass-forward Signature Sound, Type-C charging and a long-lasting case.",
+  "price": 18.99,
+  "compareAtPrice": 24.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070981/ecommerce/products/gpuchnbbtim4p7rppjgf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070981/ecommerce/products/adigdt8xi6cvgso5zldy.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070981/ecommerce/products/xptt0ilqvm6i398gdash.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070982/ecommerce/products/pd2bbzbmvotywqbewhbs.webp"
+  ],
+  "stock": 120,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:09:43.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e21"
+  },
+  "name": "boAt Airdopes 172",
+  "slug": "boat-airdopes-172-0c7e21",
+  "description": "Lightweight earbuds with a snug sporty fit, crisp Signature Sound and splash resistance for workouts.",
+  "price": 19.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070999/ecommerce/products/jqckuydgxbvxatin5epu.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070999/ecommerce/products/htkgdxenvudzck4mg4kc.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070999/ecommerce/products/oueptbuhwkuock05eih3.webp"
+  ],
+  "stock": 85,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:10:01.584Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e22"
+  },
+  "name": "boAt Airdopes 192",
+  "slug": "boat-airdopes-192-0c7e22",
+  "description": "Popular TWS earbuds with 13mm drivers, immersive Signature Sound and ENx-assisted clear calling.",
+  "price": 21.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071015/ecommerce/products/jkh5sdota27o1c6peh93.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071015/ecommerce/products/jjso3jicj8xylzff2kmi.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071015/ecommerce/products/d3ognhp4ywtcyq7aehxq.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071015/ecommerce/products/hrt3q9szkyxspj9eesbp.webp"
+  ],
+  "stock": 110,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:10:16.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e23"
+  },
+  "name": "boAt Airdopes 201",
+  "slug": "boat-airdopes-201-0c7e23",
+  "description": "True wireless earbuds with immersive Signature Sound, easy in-ear controls and a reliable charging case.",
+  "price": 20.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070875/ecommerce/products/heq4xttygdpnwtewczvw.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070875/ecommerce/products/fdmm7fqnjftujiupxaiv.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070875/ecommerce/products/aejab8w7fyyreih9o43x.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070875/ecommerce/products/cnihgidf5ztsq532zjjc.webp"
+  ],
+  "stock": 75,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:07:58.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e24"
+  },
+  "name": "boAt Airdopes 381",
+  "slug": "boat-airdopes-381-0c7e24",
+  "description": "Sleek earbuds with boAt Signature Sound, ENx clear calling and instant pairing.",
+  "price": 22.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070709/ecommerce/products/tesg6ec1vmixt2agjnjf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070709/ecommerce/products/dkm2oitifjrdafhv6fmo.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070709/ecommerce/products/x1u1lqy86pmiveky2yrr.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070709/ecommerce/products/yludko45oxez6paychqr.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:05:12.286Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e25"
+  },
+  "name": "boAt Airdopes 381 MKI",
+  "slug": "boat-airdopes-381-mki-0c7e25",
+  "description": "A styled edition of the 381 with the same immersive sound and clear-calling mics in a distinctive design.",
+  "price": 23.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070549/ecommerce/products/pbbooidtt4dnu5olbwmn.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070549/ecommerce/products/lyspyolm0gndkqha4uf9.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070549/ecommerce/products/u7gbagvy7uulcjhqavuc.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070549/ecommerce/products/dkjr8gxr1y7c2n7ehg4f.webp"
+  ],
+  "stock": 60,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 2,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:02:33.063Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e26"
+  },
+  "name": "boAt Airdopes 411 ANC",
+  "slug": "boat-airdopes-411-anc-0c7e26",
+  "description": "Active Noise Cancellation earbuds that cut background noise for focused, immersive listening.",
+  "price": 29.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070741/ecommerce/products/mwslqujgvqt3cbhnep77.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070741/ecommerce/products/rcvoqvpyoscbgrmhmqjn.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070741/ecommerce/products/e90l4v8dgic2noupfrqx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070741/ecommerce/products/akp7nxqcexkw4ud2zw7p.webp"
+  ],
+  "stock": 55,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:05:43.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e27"
+  },
+  "name": "boAt Airdopes 451v2",
+  "slug": "boat-airdopes-451v2-0c7e27",
+  "description": "Refined earbuds combining Signature Sound with a secure fit, clear mics and long playback.",
+  "price": 24.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070853/ecommerce/products/tkudnaydd76aypkxxpso.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070853/ecommerce/products/kxzjnzjpy9enog5ichzj.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070853/ecommerce/products/zo30cecx74y1xzkqajz8.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070853/ecommerce/products/rqpyjrtadjywqxsvs5ev.webp"
+  ],
+  "stock": 65,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:07:35.780Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e28"
+  },
+  "name": "boAt Airdopes 501 ANC",
+  "slug": "boat-airdopes-501-anc-0c7e28",
+  "description": "Premium-feel ANC earbuds with deep sound, ENx clear calling and long battery life.",
+  "price": 34.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070622/ecommerce/products/ow6yvj5uiz4i0s523qnm.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070622/ecommerce/products/pwbqk4gtwebtkw6depbd.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070622/ecommerce/products/aeornwlmeflph0c7jsw6.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070623/ecommerce/products/eccxy6xhuntyuc33mxql.webp"
+  ],
+  "stock": 50,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:03:45.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e29"
+  },
+  "name": "boAt Airdopes 511 V2",
+  "slug": "boat-airdopes-511-v2-0c7e29",
+  "description": "Upgraded TWS earbuds with rich Signature Sound, stable Bluetooth and splash resistance.",
+  "price": 25.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070770/ecommerce/products/lgc4oufjddhkqwwffgnh.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070770/ecommerce/products/y8jtk5ken5jziqnh37vp.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070770/ecommerce/products/b69fd9ns8a3chslekwwf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070770/ecommerce/products/f9ofgz6xc4ai633zkhpd.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:06:13.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e2a"
+  },
+  "name": "boAt Airdopes 701 ANC",
+  "slug": "boat-airdopes-701-anc-0c7e2a",
+  "description": "Flagship-tier earbuds with Active Noise Cancellation, premium mics and BEAST Mode low latency.",
+  "price": 39.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070682/ecommerce/products/gcop5xxrgojmzf8q5pqq.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070683/ecommerce/products/ptqsotuiqy4ia6pjpalt.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070683/ecommerce/products/gb5kdtppr7tubptadb4t.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070683/ecommerce/products/v3pbfkxhms7hcjnf5m94.webp"
+  ],
+  "stock": 45,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:04:47.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e2b"
+  },
+  "name": "boAt Immortal 121",
+  "slug": "boat-immortal-121-0c7e2b",
+  "description": "Gaming earbuds with BEAST Mode 40ms low latency, quad ENx mics, blazing RGB lights and up to 40 hours playback.",
+  "price": 24.99,
+  "compareAtPrice": 42.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070832/ecommerce/products/lhhbdqpfemilnelgjlqb.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070832/ecommerce/products/rxwqh3zjly6xz2elwrmd.webp"
+  ],
+  "stock": 90,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:07:14.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e2c"
+  },
+  "name": "boAt TRebel Airdopes 181",
+  "slug": "boat-trebel-airdopes-181-0c7e2c",
+  "description": "Style-forward earbuds pairing standout looks with immersive Signature Sound and all-day battery.",
+  "price": 21.99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0e"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070803/ecommerce/products/ftcy9mixatlprurzxb9u.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070802/ecommerce/products/cssyglwukq4vc5tulfxx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070803/ecommerce/products/mluhfucnheafzx5jbxwu.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789070802/ecommerce/products/qwndfsvqi1nuyzdrcf5y.webp"
+  ],
+  "stock": 60,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:06:45.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e2d"
+  },
+  "name": "Canon EOS 5D Mark IV (24-105mm f/4L IS II USM Kit)",
+  "slug": "canon-eos-5d-mark-iv-24-105mm-f4l-is-ii-usm-kit-0c7e2d",
+  "description": "30.4MP full-frame DSLR with 4K video and Dual Pixel autofocus, bundled with the versatile EF 24-105mm f/4L zoom.",
+  "price": 2499,
+  "compareAtPrice": 2699,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071491/ecommerce/products/aszxkd5apsssdi7kcvj8.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071491/ecommerce/products/lncqy2qdh5pvbawdty7w.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071490/ecommerce/products/hjn2mslrjbvoplh8jips.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071490/ecommerce/products/y9sgh94tvu9pialjaidw.jpg"
+  ],
+  "stock": 8,
+  "brand": "Canon",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:18:11.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e2e"
+  },
+  "name": "Canon EOS 200D II (18-55mm STM, Black)",
+  "slug": "canon-eos-200d-ii-18-55mm-stm-black-0c7e2e",
+  "description": "Compact 24.1MP APS-C DSLR with a vari-angle touchscreen and 4K video, ideal for beginners and vloggers.",
+  "price": 599,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071470/ecommerce/products/d5ltuxjdlprkqeegerm4.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071470/ecommerce/products/plg6x0ar87bl3kb5icix.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071470/ecommerce/products/gad2pwewqupo4b8dreqj.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071471/ecommerce/products/sjazfosmwhvzeal7hdcf.jpg"
+  ],
+  "stock": 20,
+  "brand": "Canon",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:17:53.747Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e2f"
+  },
+  "name": "Canon EOS 1500D (EF-S 18-55mm IS II Lens)",
+  "slug": "canon-eos-1500d-ef-s-18-55mm-is-ii-lens-0c7e2f",
+  "description": "Entry-level 24.1MP APS-C DSLR with guided controls and Wi-Fi for an easy step up from a phone.",
+  "price": 399,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071521/ecommerce/products/jxyljo7gj2ux1zxaaet5.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071521/ecommerce/products/cqh6eby5t3rphg7xqoiz.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071521/ecommerce/products/wy8ddik2y2rz5nkxnd4h.jpg"
+  ],
+  "stock": 25,
+  "brand": "Canon",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:18:45.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e30"
+  },
+  "name": "CP PLUS 3MP Full HD Security Camera",
+  "slug": "cp-plus-3mp-full-hd-security-camera-0c7e30",
+  "description": "3MP Full HD surveillance camera for sharp day and night home or business monitoring.",
+  "price": 45,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071447/ecommerce/products/e6maiigsnddzkrxrden7.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071447/ecommerce/products/feedsv0wz4entvwunpkd.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071447/ecommerce/products/g0hjnvj5idbbnrajx9ng.jpg"
+  ],
+  "stock": 60,
+  "brand": "CP PLUS",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:17:28.576Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e31"
+  },
+  "name": "DIGITEK DTR 260 Tripod",
+  "slug": "digitek-dtr-260-tripod-0c7e31",
+  "description": "Lightweight adjustable tripod for DSLRs, mirrorless and action cameras with a quick-release mount.",
+  "price": 29,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071112/ecommerce/products/hxq2sgmqa8cmpswygpav.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071112/ecommerce/products/wd03txazphcfcyzuathw.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071112/ecommerce/products/bqdrinsxsl28sckofemr.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071112/ecommerce/products/en1chnwwqbzn2ohihael.jpg"
+  ],
+  "stock": 70,
+  "brand": "DIGITEK",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:12:04.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e32"
+  },
+  "name": "Fujifilm Instax Mini 9 Instant Camera (Cobalt Blue)",
+  "slug": "fujifilm-instax-mini-9-instant-camera-cobalt-blue-0c7e32",
+  "description": "Fun instant-print camera for credit-card-sized photos, with a selfie mirror and close-up lens.",
+  "price": 69,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071432/ecommerce/products/uneg01wgsb8decab4pcv.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071432/ecommerce/products/emnsnpasohtmprwtiupy.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071432/ecommerce/products/clokjzxbtrjn6ozhltzg.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071432/ecommerce/products/rudpmyxfcp0dazahd9tl.jpg"
+  ],
+  "stock": 50,
+  "brand": "Fujifilm",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:17:13.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e33"
+  },
+  "name": "Fujifilm Instax Mini 9 (Box with 10 Shots)",
+  "slug": "fujifilm-instax-mini-9-box-with-10-shots-0c7e33",
+  "description": "The Instax Mini 9 bundled with a 10-sheet film pack so you can start printing right away.",
+  "price": 79,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071543/ecommerce/products/yv3sooz7hxa3bi1ltwsv.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071543/ecommerce/products/aroopxjevtn9tpm7yxl9.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071543/ecommerce/products/jal2ldi8pj63stv0p45j.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071543/ecommerce/products/kuadayic5rtiifd9gvrj.jpg"
+  ],
+  "stock": 40,
+  "brand": "Fujifilm",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:19:09.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e34"
+  },
+  "name": "Nikon D780 DSLR (Body, Black)",
+  "slug": "nikon-d780-dslr-body-black-0c7e34",
+  "description": "24.5MP full-frame DSLR with fast hybrid autofocus, 4K video and excellent low-light performance.",
+  "price": 1999,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071213/ecommerce/products/c0ev4mea6mbzszuh1xzl.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071213/ecommerce/products/ijctnjpbq0gtkfr00tyg.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071213/ecommerce/products/rbvvc3wqvxarduxt82rd.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071213/ecommerce/products/mggyxmft5v7e2nigdhax.jpg"
+  ],
+  "stock": 10,
+  "brand": "Nikon",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:13:34.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e35"
+  },
+  "name": "Nikon D850 (45.7MP, with Memory Card)",
+  "slug": "nikon-d850-457mp-with-memory-card-0c7e35",
+  "description": "45.7MP full-frame DSLR for high-resolution stills and 4K, a favourite for landscape and studio work.",
+  "price": 2799,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071063/ecommerce/products/ttsye26wxued3m1npwum.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071063/ecommerce/products/douxjmavkpu3z6o9odol.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071063/ecommerce/products/v8qlkg1fqpehlctojhos.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071063/ecommerce/products/pmaw34jzjlatvjezoabe.jpg"
+  ],
+  "stock": 8,
+  "brand": "Nikon",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:11:06.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e36"
+  },
+  "name": "Osaka OS 550 Aluminium Tripod",
+  "slug": "osaka-os-550-aluminium-tripod-0c7e36",
+  "description": "Sturdy aluminium tripod with adjustable height and a pan-tilt head for cameras and camcorders.",
+  "price": 34,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071094/ecommerce/products/hhcwfdeqnvdzzw6snnp7.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071094/ecommerce/products/r0jqkjse0w6w5khmmhko.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071094/ecommerce/products/ux8rhxny0niyy6fxsrx1.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071094/ecommerce/products/motemr5m6qwwrfizgqlg.jpg"
+  ],
+  "stock": 60,
+  "brand": "Osaka",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:11:37.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e37"
+  },
+  "name": "SJCAM SJ4000 WiFi Action Camera (Gold)",
+  "slug": "sjcam-sj4000-wifi-action-camera-gold-0c7e37",
+  "description": "Budget-friendly Wi-Fi action camera for POV and adventure footage, with waterproof housing.",
+  "price": 99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071565/ecommerce/products/ftndwzknorqxudz6zikc.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071565/ecommerce/products/aqau7z666jqrhnnan7im.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071565/ecommerce/products/lyacrqeelcdrlzini3pl.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071565/ecommerce/products/pme8uhhxmlc9zjkvjevu.jpg"
+  ],
+  "stock": 40,
+  "brand": "SJCAM",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:19:26.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e38"
+  },
+  "name": "Sony Alpha ILCE-6400 (Body, Black)",
+  "slug": "sony-alpha-ilce-6400-body-black-0c7e38",
+  "description": "24.2MP APS-C mirrorless camera with lightning-fast real-time autofocus and a 180-degree flip screen.",
+  "price": 899,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071582/ecommerce/products/qdv11ff7tgzuni53o9i0.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071582/ecommerce/products/kidpxrn13pgohl1z0zeh.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071582/ecommerce/products/r6ctmkxymwsgxnsu1e2i.jpg"
+  ],
+  "stock": 15,
+  "brand": "Sony",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:19:43.269Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e39"
+  },
+  "name": "Syvo WT 3130 Aluminium Tripod (Brown)",
+  "slug": "syvo-wt-3130-aluminium-tripod-brown-0c7e39",
+  "description": "Portable aluminium tripod for cameras and smartphones with adjustable legs and a travel-ready build.",
+  "price": 25,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e0f"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071603/ecommerce/products/kk2vfazfjdcbper7z7sa.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071603/ecommerce/products/nr5lveiraxreecuezi43.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071603/ecommerce/products/aanj1b35utwgpdhphent.jpg",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071603/ecommerce/products/wy93kinj5kwlbpicoqh7.jpg"
+  ],
+  "stock": 65,
+  "brand": "Syvo",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:20:04.287Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e3a"
+  },
+  "name": "boAt Rockerz 103 Pro",
+  "slug": "boat-rockerz-103-pro-0c7e3a",
+  "description": "Wireless neckband with boAt Signature Sound and a lightweight, sweat-resistant build for workouts.",
+  "price": 16,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072082/ecommerce/products/j91xsaiuyd1ipoxly2j4.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072082/ecommerce/products/nalijsswgkcxgjhyprnr.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072082/ecommerce/products/biczyl3pdabnlgnzy6oa.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072082/ecommerce/products/li5qdeeffizpojn6xkxf.webp"
+  ],
+  "stock": 90,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:28:03.550Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e3b"
+  },
+  "name": "boAt Rockerz 258 Pro+",
+  "slug": "boat-rockerz-258-pro-0c7e3b",
+  "description": "Popular Bluetooth neckband with deep bass, ASAP Charge, magnetic earbuds and IPX water resistance.",
+  "price": 22,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072069/ecommerce/products/y2r5nbj8gxtbohxiaryw.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072069/ecommerce/products/sntcnotxazg7nc0iyamx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072069/ecommerce/products/zz80bynpcbd6nesj0q8g.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072069/ecommerce/products/roodgzizstkzr2fuu2hl.webp"
+  ],
+  "stock": 110,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:27:50.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e3c"
+  },
+  "name": "boAt Rockerz 330",
+  "slug": "boat-rockerz-330-0c7e3c",
+  "description": "Comfortable neckband with immersive Signature Sound, ENx clear calling and long battery life.",
+  "price": 20,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072094/ecommerce/products/yujkszr6kuom7hlhyku2.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072094/ecommerce/products/wfvrmmzolhqj86qg5mae.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072094/ecommerce/products/jhbep1vhme9ebt3lwzux.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072094/ecommerce/products/mfqo2oxhok6ipegtotcj.webp"
+  ],
+  "stock": 85,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:28:15.837Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e3d"
+  },
+  "name": "boAt Rockerz 330 Pro",
+  "slug": "boat-rockerz-330-pro-0c7e3d",
+  "description": "Upgraded 330 with extended playback, refined sound, ASAP Charge and a secure sporty fit.",
+  "price": 24,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072058/ecommerce/products/rhrtyudc1acywiir58dc.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072058/ecommerce/products/wghjpzwzpwnwjqsuqwma.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072058/ecommerce/products/gxrqghoeuzyy9abk66gz.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072058/ecommerce/products/gce66kiqn9hjy1ue79cg.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:27:39.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e3e"
+  },
+  "name": "boAt Rockerz 375",
+  "slug": "boat-rockerz-375-0c7e3e",
+  "description": "Neckband earphones with punchy bass, magnetic buds, splash resistance and all-day battery.",
+  "price": 18,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072010/ecommerce/products/hp2khavhsdlhi3hpo6iw.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072010/ecommerce/products/qx7sq0g9xytbkc7j822w.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072010/ecommerce/products/jizszf3mdmlqfluyi55d.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072011/ecommerce/products/rs2usr7ccz570h7vyd6b.webp"
+  ],
+  "stock": 80,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:26:52.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e3f"
+  },
+  "name": "boAt Rockerz 400",
+  "slug": "boat-rockerz-400-0c7e3f",
+  "description": "On-ear Bluetooth headphones with plush earcups, Signature Sound and long wireless playback.",
+  "price": 25,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072045/ecommerce/products/iy1e8pb0cdqqwupyyvlj.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072045/ecommerce/products/pgoxgue4vqneb4ogxwo4.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072045/ecommerce/products/dhhzrmkghddqf3wh6wmr.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072045/ecommerce/products/h5uxwokgvlndzimkwwd4.webp"
+  ],
+  "stock": 60,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:27:27.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e40"
+  },
+  "name": "boAt Rockerz 450 (Batman DC Edition)",
+  "slug": "boat-rockerz-450-batman-dc-edition-0c7e40",
+  "description": "Best-selling on-ear wireless headphones in a special Batman DC design with 40mm drivers and a foldable build.",
+  "price": 32,
+  "compareAtPrice": 39,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072108/ecommerce/products/ttoyibjv4zrisjoakt0z.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072109/ecommerce/products/tq7pru3n19erzvt8xgph.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072109/ecommerce/products/qsqav2dbolglqltnatup.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072109/ecommerce/products/t54gymvbewt3zqngkaxp.webp"
+  ],
+  "stock": 55,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:28:29.839Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e41"
+  },
+  "name": "boAt Rockerz 510",
+  "slug": "boat-rockerz-510-0c7e41",
+  "description": "On-ear Bluetooth headphones with powerful bass, cushioned earcups and extended battery.",
+  "price": 30,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072033/ecommerce/products/apwvrgyoqjteo24d4fh5.webp"
+  ],
+  "stock": 50,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:27:14.637Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e42"
+  },
+  "name": "boAt Rockerz 518",
+  "slug": "boat-rockerz-518-0c7e42",
+  "description": "On-ear wireless headphones with large dynamic drivers, plush comfort and long playback.",
+  "price": 29,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071968/ecommerce/products/fybqksfsc8p4xa0mtmvn.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071968/ecommerce/products/yocnbbb9ng0eqlod8ycy.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071968/ecommerce/products/krjkmc8qvh175cualihg.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071968/ecommerce/products/fgrqn7t08kkzzysonsrz.webp"
+  ],
+  "stock": 55,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:26:09.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e43"
+  },
+  "name": "boAt Rockerz 558",
+  "slug": "boat-rockerz-558-0c7e43",
+  "description": "Over-ear wireless headphones with immersive Signature Sound, cushioned earcups and long battery life.",
+  "price": 34,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071996/ecommerce/products/wpgam2v019sxexnnabui.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071996/ecommerce/products/feypwvpacmvqgubu83sf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071996/ecommerce/products/o5rrvz0cansresg9egyo.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789071996/ecommerce/products/nvupx53yzr4jq8ldoik4.webp"
+  ],
+  "stock": 45,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:26:39.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e44"
+  },
+  "name": "boAt TRebel Rockerz 235 V2",
+  "slug": "boat-trebel-rockerz-235-v2-0c7e44",
+  "description": "Style-forward TRebel neckband with magnetic buds, ASAP Charge and Signature Sound.",
+  "price": 19,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072138/ecommerce/products/d9ctploc1q8504fis12z.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072137/ecommerce/products/dw8s2t7qqivuoymxae9l.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:28:59.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e45"
+  },
+  "name": "boAt TRebel Rockerz 255 Pro",
+  "slug": "boat-trebel-rockerz-255-pro-0c7e45",
+  "description": "Fan-favourite TRebel neckband with deep bass, ASAP Charge, IPX water resistance and a lightweight design.",
+  "price": 21,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072159/ecommerce/products/e7iwdiipdewnjnin6lgf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072159/ecommerce/products/oogjbvknhernjpevbrat.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072159/ecommerce/products/mvckndxguykcl3qp6kgw.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072159/ecommerce/products/yiqi1kotmkqsvzemmf81.webp"
+  ],
+  "stock": 75,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:29:20.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e46"
+  },
+  "name": "boAt TRebel Rockerz 450",
+  "slug": "boat-trebel-rockerz-450-0c7e46",
+  "description": "On-ear wireless headphones from the TRebel line pairing bold styling with Signature Sound and comfort.",
+  "price": 31,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072179/ecommerce/products/jmpmeearoe9s5xfgav65.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072179/ecommerce/products/lhhpqwkekzqhc09v159w.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072179/ecommerce/products/v5ws9ovu2ylmdstyhke6.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072179/ecommerce/products/ldunpyixbsaoyfg0cd2o.webp"
+  ],
+  "stock": 50,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:29:41.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e47"
+  },
+  "name": "boAt Rockerz 265 V2",
+  "slug": "boat-rockerz-265-v2-0c7e47",
+  "description": "Bluetooth neckband with magnetic earbuds, splash resistance and dependable all-day battery.",
+  "price": 17,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e10"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072195/ecommerce/products/byswh2cde8naphmvz44r.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072195/ecommerce/products/mbu84ssqmqejbvwvqitf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072195/ecommerce/products/kf5rblyluf9bql4w3fzb.webp"
+  ],
+  "stock": 80,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:29:55.968Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e48"
+  },
+  "name": "realme 7 Pro (6GB RAM, Mirror Silver)",
+  "slug": "realme-7-pro-6gb-ram-mirror-silver-0c7e48",
+  "description": "Mid-range smartphone with a Super AMOLED display and fast charging.",
+  "price": 259,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073111/ecommerce/products/roefqa5k9amgamyf9cvx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073110/ecommerce/products/iidigblegfo5kiqkgngp.webp"
+  ],
+  "stock": 20,
+  "brand": "realme",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:45:11.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e4b"
+  },
+  "name": "realme 9i 5G (4GB RAM, Soulful Blue)",
+  "slug": "realme-9i-5g-4gb-ram-soulful-blue-0c7e4b",
+  "description": "Budget 5G smartphone with a 90Hz display and long battery life.",
+  "price": 179,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073100/ecommerce/products/k9bjfo303fmdjycyekib.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073101/ecommerce/products/qopj3mxxrrowecbcs0cn.webp"
+  ],
+  "stock": 30,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:45:01.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e4c"
+  },
+  "name": "realme C25s (4GB RAM, Watery Grey)",
+  "slug": "realme-c25s-4gb-ram-watery-grey-0c7e4c",
+  "description": "Big-battery budget phone with a 48MP camera and large display.",
+  "price": 149,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073120/ecommerce/products/lvngyyw4qn7hystx8gd6.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073120/ecommerce/products/eyt3zdzjm7ndz7d0p0na.webp"
+  ],
+  "stock": 35,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:45:21.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e4d"
+  },
+  "name": "realme C30 (2GB RAM, Bamboo Green)",
+  "slug": "realme-c30-2gb-ram-bamboo-green-0c7e4d",
+  "description": "Entry-level smartphone with a slim design and long battery life.",
+  "price": 99,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073091/ecommerce/products/kfc3xreojbw9b0t2rged.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073091/ecommerce/products/mg60lrzppbbb2pxdr5p1.webp"
+  ],
+  "stock": 40,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:44:52.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e4e"
+  },
+  "name": "realme C33 (3GB RAM, Night Sea)",
+  "slug": "realme-c33-3gb-ram-night-sea-0c7e4e",
+  "description": "Budget smartphone with a 50MP camera and a sleek build.",
+  "price": 129,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072932/ecommerce/products/qgtsfdttxdsy1eoe2qgg.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072932/ecommerce/products/exevnawyfexquhijvw16.webp"
+  ],
+  "stock": 35,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:42:12.960Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e4f"
+  },
+  "name": "realme C35 (4GB RAM, Glowing Black)",
+  "slug": "realme-c35-4gb-ram-glowing-black-0c7e4f",
+  "description": "Budget smartphone with a Full HD+ display and 50MP camera.",
+  "price": 159,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073070/ecommerce/products/y8dbt1hlxxsfmo5cqjym.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073070/ecommerce/products/uayqhorb7upq3myebcqc.webp"
+  ],
+  "stock": 30,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:44:31.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e50"
+  },
+  "name": "realme GT 5G (12GB RAM, Racing Yellow)",
+  "slug": "realme-gt-5g-12gb-ram-racing-yellow-0c7e50",
+  "description": "Flagship smartphone with Snapdragon 888 and a 120Hz AMOLED display.",
+  "price": 449,
+  "compareAtPrice": 499,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073136/ecommerce/products/amikttn9gc80kgtudofa.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073136/ecommerce/products/plcse9olz8afqdsclioq.webp"
+  ],
+  "stock": 15,
+  "brand": "realme",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:45:37.534Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e51"
+  },
+  "name": "realme GT NEO 2 (8GB RAM, Neo Green)",
+  "slug": "realme-gt-neo-2-8gb-ram-neo-green-0c7e51",
+  "description": "Performance smartphone with a 120Hz AMOLED display and fast charging.",
+  "price": 399,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072946/ecommerce/products/cmuijmsaolyd4wn8pml4.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072946/ecommerce/products/m0bd0gz1c9ckvzhydktr.webp"
+  ],
+  "stock": 18,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:42:28.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e52"
+  },
+  "name": "realme GT Neo 3 (8GB RAM, Asphalt Black)",
+  "slug": "realme-gt-neo-3-8gb-ram-asphalt-black-0c7e52",
+  "description": "Fast-charging performance smartphone with a 120Hz AMOLED display.",
+  "price": 419,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072808/ecommerce/products/tv4lhvy5mof9iuconrpk.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072808/ecommerce/products/u766ziwlegyjkpjmh1no.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072808/ecommerce/products/jgwlavtzzddpwn1kxw14.webp"
+  ],
+  "stock": 16,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:40:12.009Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e53"
+  },
+  "name": "realme Narzo 30 Pro 5G (6GB RAM)",
+  "slug": "realme-narzo-30-pro-5g-6gb-ram-0c7e53",
+  "description": "5G smartphone with a 120Hz display built for gaming and streaming.",
+  "price": 199,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072837/ecommerce/products/csfyuh1nefibhm54mfbf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072840/ecommerce/products/uiqo7yhq5ykh1xnavc7t.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789072837/ecommerce/products/rvv5ripeiwl1ml9pbam8.webp"
+  ],
+  "stock": 25,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:40:42.813Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e54"
+  },
+  "name": "realme Narzo 50 (4GB RAM, Speed Blue)",
+  "slug": "realme-narzo-50-4gb-ram-speed-blue-0c7e54",
+  "description": "Gaming-tier budget smartphone with a 120Hz display.",
+  "price": 179,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073715/ecommerce/products/mvanaycp82duvag7uubr.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073714/ecommerce/products/vkuo6w0kux7afvby2dtz.webp"
+  ],
+  "stock": 28,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:55:16.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e55"
+  },
+  "name": "realme Narzo 50A (4GB RAM, Oxygen Green)",
+  "slug": "realme-narzo-50a-4gb-ram-oxygen-green-0c7e55",
+  "description": "Big-battery budget smartphone with a 50MP camera.",
+  "price": 159,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073702/ecommerce/products/htsojtqjzdcwzo1u6pxd.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073702/ecommerce/products/hfc9jrrpvpx2kbr1xvmm.webp"
+  ],
+  "stock": 30,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:55:03.961Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e56"
+  },
+  "name": "realme Narzo 50A Prime (4GB RAM)",
+  "slug": "realme-narzo-50a-prime-4gb-ram-0c7e56",
+  "description": "Slim budget smartphone with a Full HD+ display and 50MP camera.",
+  "price": 149,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073675/ecommerce/products/bo6oh6s3ydpmakagsa5a.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073675/ecommerce/products/w4dpd1ryoviegufnml4q.webp"
+  ],
+  "stock": 30,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:54:35.839Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e57"
+  },
+  "name": "realme X7 Pro 5G (8GB RAM)",
+  "slug": "realme-x7-pro-5g-8gb-ram-0c7e57",
+  "description": "5G smartphone with a 120Hz AMOLED display and fast charging.",
+  "price": 399,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073659/ecommerce/products/dlf7lsl80wjyutngcxvy.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073659/ecommerce/products/xr93ttjqpqzlrqvwcv0t.webp"
+  ],
+  "stock": 15,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:54:19.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e58"
+  },
+  "name": "Samsung Galaxy A03s (3GB RAM)",
+  "slug": "samsung-galaxy-a03s-3gb-ram-0c7e58",
+  "description": "Entry-level smartphone with a large display and long battery life.",
+  "price": 129,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073641/ecommerce/products/n1r8xfrgq6u5b08lvgnw.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073641/ecommerce/products/pyrpz8rtnessffct9s9n.webp"
+  ],
+  "stock": 35,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:54:02.401Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e59"
+  },
+  "name": "Samsung Galaxy A10s (3GB RAM)",
+  "slug": "samsung-galaxy-a10s-3gb-ram-0c7e59",
+  "description": "Budget smartphone with a dual camera and dependable battery.",
+  "price": 139,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073590/ecommerce/products/ztldpncci2on4krttunl.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073590/ecommerce/products/p0yjudwopsuagc1edqbh.webp"
+  ],
+  "stock": 30,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:53:12.572Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e5a"
+  },
+  "name": "Samsung Galaxy A12 (6GB RAM)",
+  "slug": "samsung-galaxy-a12-6gb-ram-0c7e5a",
+  "description": "Budget smartphone with a 48MP quad camera and big battery.",
+  "price": 179,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073575/ecommerce/products/ldpxxaufmfmx8ffdy61a.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073575/ecommerce/products/ifdierua8jbduduuotmt.webp"
+  ],
+  "stock": 30,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:52:57.387Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e5b"
+  },
+  "name": "Samsung Galaxy A13 (6GB RAM)",
+  "slug": "samsung-galaxy-a13-6gb-ram-0c7e5b",
+  "description": "Budget smartphone with a 50MP camera and a large display.",
+  "price": 189,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073561/ecommerce/products/p3rmm5pq8udqo11jahdy.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073561/ecommerce/products/iueosrce47hxraqovwlw.webp"
+  ],
+  "stock": 28,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:52:42.485Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e5c"
+  },
+  "name": "Samsung Galaxy A14 (4GB RAM)",
+  "slug": "samsung-galaxy-a14-4gb-ram-0c7e5c",
+  "description": "Budget smartphone with a 90Hz display and 50MP camera.",
+  "price": 199,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073535/ecommerce/products/bt3uxayez6705np7fqlh.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073535/ecommerce/products/kuryhrgr2mtraxjxfszn.webp"
+  ],
+  "stock": 28,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:52:25.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e5d"
+  },
+  "name": "Samsung Galaxy A23 (8GB RAM)",
+  "slug": "samsung-galaxy-a23-8gb-ram-0c7e5d",
+  "description": "Mid-budget smartphone with a 50MP OIS camera and a 120Hz display.",
+  "price": 259,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e11"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073519/ecommerce/products/r3f9pdugu5zfxsppdatx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073520/ecommerce/products/cfyjfxh7zphph7ngvg0y.webp"
+  ],
+  "stock": 22,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:52:00.837Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e5e"
+  },
+  "name": "ASUS Marshmallow MD100 Wireless Mouse (Quiet Blue)",
+  "slug": "asus-marshmallow-md100-wireless-mouse-quiet-blue-0c7e5e",
+  "description": "Dual-mode wireless mouse (Bluetooth and 2.4GHz) with silent clicks and a compact design.",
+  "price": 22,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074319/ecommerce/products/iceeg3mu9tp4egcjbwbt.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074319/ecommerce/products/bytl0yduv2zmuamv8bsh.webp"
+  ],
+  "stock": 60,
+  "brand": "ASUS",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:05:20.763Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e5f"
+  },
+  "name": "Dell MS116 Wired Optical Mouse (USB, Black)",
+  "slug": "dell-ms116-wired-optical-mouse-usb-black-0c7e5f",
+  "description": "Reliable wired optical mouse with a comfortable ambidextrous shape and 1000 DPI tracking.",
+  "price": 9,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074306/ecommerce/products/qkrmzfgxbhgmijhqscdt.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074306/ecommerce/products/uzn7tum4bshagaibfqgm.webp"
+  ],
+  "stock": 120,
+  "brand": "Dell",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:05:07.729Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e60"
+  },
+  "name": "Flipkart SmartBuy Wireless Mouse (Midnight Black)",
+  "slug": "flipkart-smartbuy-wireless-mouse-midnight-black-0c7e60",
+  "description": "Affordable wireless optical mouse with a plug-and-play nano receiver.",
+  "price": 8,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074296/ecommerce/products/hotmohklqgagdtjyrhdk.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074296/ecommerce/products/msrq9x2qkowcms7frwey.webp"
+  ],
+  "stock": 100,
+  "brand": "Flipkart SmartBuy",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:04:57.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e61"
+  },
+  "name": "HP 250 Wireless Optical Mouse (Black)",
+  "slug": "hp-250-wireless-optical-mouse-black-0c7e61",
+  "description": "Slim wireless mouse with a 2.4GHz receiver and long battery life.",
+  "price": 14,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074278/ecommerce/products/kq8z6r1pnmdrjg9ue8hh.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074278/ecommerce/products/cm5klwdusnhrkwlvswcf.webp"
+  ],
+  "stock": 90,
+  "brand": "HP",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:04:39.079Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e62"
+  },
+  "name": "HP x1000 Wired Optical Mouse (USB 2.0, Black)",
+  "slug": "hp-x1000-wired-optical-mouse-usb-20-black-0c7e62",
+  "description": "Everyday wired optical mouse with a comfortable grip and 1000 DPI tracking.",
+  "price": 8,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074268/ecommerce/products/v6j3so4smzbjinff3p6r.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074268/ecommerce/products/v5vbee1tttn0qppjxgbw.webp"
+  ],
+  "stock": 110,
+  "brand": "HP",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.987Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:04:29.208Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e63"
+  },
+  "name": "Lenovo 130 Wireless Optical Mouse (Black)",
+  "slug": "lenovo-130-wireless-optical-mouse-black-0c7e63",
+  "description": "Compact wireless mouse with a nano receiver and an ergonomic build.",
+  "price": 12,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074251/ecommerce/products/xianjfklkmrtu9rinwka.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074251/ecommerce/products/llb4x0p19oxmmiropnba.webp"
+  ],
+  "stock": 90,
+  "brand": "Lenovo",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:04:12.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e64"
+  },
+  "name": "Lenovo 400 Wireless Optical Mouse",
+  "slug": "lenovo-400-wireless-optical-mouse-0c7e64",
+  "description": "Full-size wireless mouse with smooth optical tracking and long battery life.",
+  "price": 15,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074235/ecommerce/products/x2ajhuciq0pmdlocf9lb.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074234/ecommerce/products/tt7orbg7fep8orlwfidn.webp"
+  ],
+  "stock": 80,
+  "brand": "Lenovo",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:03:56.608Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e65"
+  },
+  "name": "Logitech B100 Wired Optical Mouse (USB, Black)",
+  "slug": "logitech-b100-wired-optical-mouse-usb-black-0c7e65",
+  "description": "Simple, durable wired mouse with ambidextrous comfort and 800 DPI tracking.",
+  "price": 9,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074213/ecommerce/products/ggrqtc2lxjivzisoeotj.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074213/ecommerce/products/b5eyeotbaw13zunsxmw5.webp"
+  ],
+  "stock": 130,
+  "brand": "Logitech",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:03:34.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e66"
+  },
+  "name": "Logitech B175 Wireless Optical Mouse (Black)",
+  "slug": "logitech-b175-wireless-optical-mouse-black-0c7e66",
+  "description": "Wireless mouse with a tiny receiver and reliable 2.4GHz connectivity.",
+  "price": 13,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074199/ecommerce/products/l8vxpuq5scsub7ily2kp.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074199/ecommerce/products/pubbeyjvtkechtdt0yds.webp"
+  ],
+  "stock": 100,
+  "brand": "Logitech",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:03:20.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e67"
+  },
+  "name": "Portronics Toad 22 Wireless Mouse (Black)",
+  "slug": "portronics-toad-22-wireless-mouse-black-0c7e67",
+  "description": "Slim wireless mouse with adjustable DPI and a compact travel-friendly design.",
+  "price": 11,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074186/ecommerce/products/ejozyh8a9pxtcfcdsyfh.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074186/ecommerce/products/anfzd7lvmaysezevlzxp.webp"
+  ],
+  "stock": 85,
+  "brand": "Portronics",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:03:07.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e68"
+  },
+  "name": "Portronics Toad 24 Wireless Mouse (Black)",
+  "slug": "portronics-toad-24-wireless-mouse-black-0c7e68",
+  "description": "Lightweight wireless mouse with silent clicks and multiple DPI levels.",
+  "price": 12,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074161/ecommerce/products/zrx6uthytjefqlo7t2ag.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074161/ecommerce/products/xve0vuqh8euf6ehmrxfj.webp"
+  ],
+  "stock": 85,
+  "brand": "Portronics",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:02:41.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e69"
+  },
+  "name": "Portronics Toad One Bluetooth Mouse (Black)",
+  "slug": "portronics-toad-one-bluetooth-mouse-black-0c7e69",
+  "description": "Bluetooth mouse for laptops and tablets with a slim rechargeable design.",
+  "price": 15,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074147/ecommerce/products/opkercktvvkz0ivfdehy.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074147/ecommerce/products/qzfwqvzbhbl3gvl1yszi.webp"
+  ],
+  "stock": 70,
+  "brand": "Portronics",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:02:28.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e6a"
+  },
+  "name": "Zoook Bomber Wired Mouse (USB 2.0, Black)",
+  "slug": "zoook-bomber-wired-mouse-usb-20-black-0c7e6a",
+  "description": "Budget wired optical mouse with a sturdy build and smooth tracking.",
+  "price": 7,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e12"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074121/ecommerce/products/k6fmh7vztcrqubcsejhi.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074122/ecommerce/products/g11ylq10sgrpzyyn66ox.webp"
+  ],
+  "stock": 100,
+  "brand": "Zoook",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:02:03.294Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e6b"
+  },
+  "name": "Canon PIXMA MG2570S All-in-One Inkjet Printer",
+  "slug": "canon-pixma-mg2570s-all-in-one-inkjet-printer-0c7e6b",
+  "description": "Compact all-in-one inkjet for printing, scanning and copying at home, with ink cartridges included.",
+  "price": 55,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073829/ecommerce/products/sghjsws8glppkzx5vldr.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073829/ecommerce/products/rua8vvtyoao71ijqd3zm.webp"
+  ],
+  "stock": 40,
+  "brand": "Canon",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:57:10.549Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e6c"
+  },
+  "name": "Canon PIXMA MG2470 All-in-One Inkjet Printer",
+  "slug": "canon-pixma-mg2470-all-in-one-inkjet-printer-0c7e6c",
+  "description": "Space-saving all-in-one inkjet for everyday print, scan and copy, with ink cartridges included.",
+  "price": 50,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e13"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073812/ecommerce/products/pmjg9oyhfzx2qtyjlswz.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073812/ecommerce/products/qloij20skrbv0t7wdp7x.webp"
+  ],
+  "stock": 35,
+  "brand": "Canon",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:56:54.438Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e6d"
+  },
+  "name": "AMD Ryzen 7 3700X Processor (Silver)",
+  "slug": "amd-ryzen-7-3700x-processor-silver-0c7e6d",
+  "description": "8-core, 16-thread AM4 desktop processor with a 4.4GHz boost, great for gaming and content creation.",
+  "price": 179,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e14"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073866/ecommerce/products/fjj4x5mczyqq7nbuxfdc.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073866/ecommerce/products/vk7xrummctbnpf52imxu.webp"
+  ],
+  "stock": 30,
+  "brand": "AMD",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:57:47.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e6e"
+  },
+  "name": "AMD Ryzen 7 3800XT Processor (Silver)",
+  "slug": "amd-ryzen-7-3800xt-processor-silver-0c7e6e",
+  "description": "8-core, 16-thread AM4 processor with higher clocks for demanding gaming and creative workloads.",
+  "price": 219,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e14"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073856/ecommerce/products/e0v1dexo6di2aep2o5fu.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073856/ecommerce/products/v2qsaafh630ennxy9hok.webp"
+  ],
+  "stock": 25,
+  "brand": "AMD",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:57:37.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e6f"
+  },
+  "name": "GIGASTAR 3.2 GHz LGA Processor (Silver)",
+  "slug": "gigastar-32-ghz-lga-processor-silver-0c7e6f",
+  "description": "Budget LGA desktop processor for everyday computing builds. Verify exact model and socket.",
+  "price": 59,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e14"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073842/ecommerce/products/ehuvgsnt73ffolmyqv1s.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073842/ecommerce/products/hfdeyrlhpk25urazbb8n.webp"
+  ],
+  "stock": 40,
+  "brand": "GIGASTAR",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:57:23.418Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e70"
+  },
+  "name": "Godrej 215 L Direct Cool Single Door Refrigerator (Aqua Blue)",
+  "slug": "godrej-215-l-direct-cool-single-door-refrigerator-aqua-blue-0c7e70",
+  "description": "Single-door direct-cool refrigerator with efficient cooling and a spacious 215L capacity.",
+  "price": 219,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074089/ecommerce/products/sc8qipjppgnd2guxjtg8.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074089/ecommerce/products/jrj5kqzsy5ruirrn3ewr.webp"
+  ],
+  "stock": 15,
+  "brand": "Godrej",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:01:29.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e71"
+  },
+  "name": "Godrej 236 L Frost Free Double Door Refrigerator",
+  "slug": "godrej-236-l-frost-free-double-door-refrigerator-0c7e71",
+  "description": "Frost-free double-door refrigerator with 236L capacity and even, consistent cooling.",
+  "price": 289,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074078/ecommerce/products/vrmm9iigrofqcjldbbnz.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074078/ecommerce/products/betaig4cqqcqxtiwsses.webp"
+  ],
+  "stock": 12,
+  "brand": "Godrej",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:01:19.407Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e72"
+  },
+  "name": "Haier 195 L Direct Cool Single Door Refrigerator (HED-1954CPG-E)",
+  "slug": "haier-195-l-direct-cool-single-door-refrigerator-hed-1954cpg-e-0c7e72",
+  "description": "Compact 195L single-door direct-cool refrigerator ideal for small households.",
+  "price": 189,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074066/ecommerce/products/u1crbu0qc9mmh1gksyno.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074066/ecommerce/products/rafoh4wfeopnf9y6wntq.webp"
+  ],
+  "stock": 18,
+  "brand": "Haier",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:01:07.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e73"
+  },
+  "name": "Haier 258 L Frost Free Double Door Refrigerator (HRF-2784PXG-E)",
+  "slug": "haier-258-l-frost-free-double-door-refrigerator-hrf-2784pxg-e-0c7e73",
+  "description": "Frost-free 258L double-door refrigerator with convertible cooling modes.",
+  "price": 319,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074050/ecommerce/products/sntaxhmloh6qpvs3bkis.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074050/ecommerce/products/oplqavfewtdsfin41bg9.webp"
+  ],
+  "stock": 12,
+  "brand": "Haier",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:00:51.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e74"
+  },
+  "name": "LG 185 L Direct Cool Single Door Refrigerator (GL-B199OERD)",
+  "slug": "lg-185-l-direct-cool-single-door-refrigerator-gl-b199oerd-0c7e74",
+  "description": "Energy-efficient 185L single-door refrigerator with a smart inverter compressor.",
+  "price": 199,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074033/ecommerce/products/j41mdcq1mz2xacjdbgho.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074033/ecommerce/products/pof99dgmfaloddhk4yal.webp"
+  ],
+  "stock": 16,
+  "brand": "LG",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:00:34.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e75"
+  },
+  "name": "LG 185 L Direct Cool Single Door Refrigerator (GL-D201ABCU)",
+  "slug": "lg-185-l-direct-cool-single-door-refrigerator-gl-d201abcu-0c7e75",
+  "description": "Reliable 185L single-door direct-cool refrigerator with fast, even cooling.",
+  "price": 205,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074018/ecommerce/products/hda4qvfwkuoeqpsaoqbp.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074018/ecommerce/products/bkdvrh8bpjal2jxscasv.webp"
+  ],
+  "stock": 15,
+  "brand": "LG",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:00:21.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e76"
+  },
+  "name": "LG 260 L Frost Free Double Door Refrigerator (GL-N292RERY)",
+  "slug": "lg-260-l-frost-free-double-door-refrigerator-gl-n292rery-0c7e76",
+  "description": "Frost-free 260L double-door refrigerator with a smart inverter compressor and convertible modes.",
+  "price": 349,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e15"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073989/ecommerce/products/qnxkfcs1te5ctl6rrhfu.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789073989/ecommerce/products/og8kpe11zj71kksz2pxs.webp"
+  ],
+  "stock": 10,
+  "brand": "LG",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T20:59:50.789Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e7d"
+  },
+  "name": "boAt Stone 200",
+  "slug": "boat-stone-200-0c7e7d",
+  "description": "Rugged portable speaker with boAt Signature Sound, TWS pairing and splash resistance.",
+  "price": 27,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074715/ecommerce/products/ecovn1jlvh1nvjbuaisi.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074714/ecommerce/products/xivcfbhk44o22p1x0duy.webp"
+  ],
+  "stock": 75,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:11:55.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e7e"
+  },
+  "name": "boAt Stone 260",
+  "slug": "boat-stone-260-0c7e7e",
+  "description": "Compact Bluetooth speaker with deep bass, IPX water resistance and long battery.",
+  "price": 29,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074704/ecommerce/products/va8umaimkgfmbolnjomf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074704/ecommerce/products/qloq4z8bfhd9mt2nmhg1.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:11:45.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e7f"
+  },
+  "name": "boAt Stone 350",
+  "slug": "boat-stone-350-0c7e7f",
+  "description": "Portable Bluetooth speaker with powerful sound, TWS pairing and a durable build.",
+  "price": 34,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074689/ecommerce/products/v9k55ikrtzml9tereoee.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074689/ecommerce/products/uehky0nwzo9vf2ihxdca.webp"
+  ],
+  "stock": 65,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:11:32.903Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e80"
+  },
+  "name": "boAt Stone 500",
+  "slug": "boat-stone-500-0c7e80",
+  "description": "Bold portable speaker with deep bass, water resistance and extended playtime.",
+  "price": 39,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074677/ecommerce/products/dips7g4cbouwf1oeqfhm.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074677/ecommerce/products/ll4encec10gjl1prfudc.webp"
+  ],
+  "stock": 60,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:11:18.361Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e81"
+  },
+  "name": "boAt Stone 620",
+  "slug": "boat-stone-620-0c7e81",
+  "description": "Water-resistant Bluetooth speaker with 12W stereo sound and TWS pairing.",
+  "price": 44,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074666/ecommerce/products/azj9ibzvos4dy4nj93yo.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074666/ecommerce/products/ww6fytyj3uztr9gtkl6w.webp"
+  ],
+  "stock": 55,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:11:07.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e82"
+  },
+  "name": "boAt Stone 1000",
+  "slug": "boat-stone-1000-0c7e82",
+  "description": "High-output portable speaker with rich stereo sound and long battery life.",
+  "price": 54,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074656/ecommerce/products/nnffjjpt4xspzrmcpi6j.webp"
+  ],
+  "stock": 45,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:10:56.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e83"
+  },
+  "name": "boAt Stone 1200",
+  "slug": "boat-stone-1200-0c7e83",
+  "description": "Powerful 14W portable speaker with deep bass, RGB lights and rugged water resistance.",
+  "price": 59,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074637/ecommerce/products/umgsm94pszaixgo0fycw.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074637/ecommerce/products/d1cg8iduqmyxx6q4txd2.webp"
+  ],
+  "stock": 45,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:10:38.091Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e84"
+  },
+  "name": "boAt Stone 1350",
+  "slug": "boat-stone-1350-0c7e84",
+  "description": "Loud portable speaker with immersive stereo sound, TWS pairing and long playtime.",
+  "price": 64,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074625/ecommerce/products/gpk7fwvk1eo2q5kl4xah.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074625/ecommerce/products/cgnowsxm3hjch6vtt66n.webp"
+  ],
+  "stock": 40,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:10:25.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e85"
+  },
+  "name": "boAt Stone 1450",
+  "slug": "boat-stone-1450-0c7e85",
+  "description": "High-power portable speaker with punchy bass, RGB lighting and rugged durability.",
+  "price": 69,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074593/ecommerce/products/xhbkvuklhioatjrrvunk.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074594/ecommerce/products/cfgzrb8a786kdtppn2pz.webp"
+  ],
+  "stock": 40,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:09:54.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e86"
+  },
+  "name": "boAt Stone 1508",
+  "slug": "boat-stone-1508-0c7e86",
+  "description": "Big-sound portable speaker with 14W output, deep bass and all-day battery.",
+  "price": 74,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074581/ecommerce/products/ewfdlhwmryhjhwjiazws.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074581/ecommerce/products/e5nievhubprayfcbive8.webp"
+  ],
+  "stock": 35,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:09:42.752Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e87"
+  },
+  "name": "Ambrane AGK-11 Trimmer (Black)",
+  "slug": "ambrane-agk-11-trimmer-black-0c7e87",
+  "description": "Cordless grooming trimmer with multiple length settings and a rechargeable battery.",
+  "price": 19,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074500/ecommerce/products/fxlvgmvghkmeu1mqu4f1.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074500/ecommerce/products/w7cjezxnjnkll42rcr16.webp"
+  ],
+  "stock": 70,
+  "brand": "Ambrane",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:08:21.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e88"
+  },
+  "name": "Luhao Dragon Professional Trimmer (Gold)",
+  "slug": "luhao-dragon-professional-trimmer-gold-0c7e88",
+  "description": "Professional hair and beard clipper with adjustable settings and a durable metal finish.",
+  "price": 29,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074489/ecommerce/products/g0zxbbhhahrdnfk95waz.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074489/ecommerce/products/ejpkwbhglelafnhp19mg.webp"
+  ],
+  "stock": 50,
+  "brand": "Luhao",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:08:10.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e89"
+  },
+  "name": "Mi XXQ01HM Trimmer (Black)",
+  "slug": "mi-xxq01hm-trimmer-black-0c7e89",
+  "description": "Cordless beard trimmer with self-sharpening blades and long cordless runtime.",
+  "price": 24,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074478/ecommerce/products/viu9lenbsbimam2vfd4n.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074478/ecommerce/products/eyjybr7h9bmwl6amvjkm.webp"
+  ],
+  "stock": 65,
+  "brand": "Mi",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:07:59.392Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e8a"
+  },
+  "name": "Nova NHT 1039-05 Trimmer (Blue)",
+  "slug": "nova-nht-1039-05-trimmer-blue-0c7e8a",
+  "description": "USB-rechargeable trimmer with multiple length settings for precise grooming.",
+  "price": 15,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074466/ecommerce/products/meog81aihedct7gcrjrd.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074466/ecommerce/products/dtzo9d25os4ttve7dpvi.webp"
+  ],
+  "stock": 80,
+  "brand": "Nova",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:07:48.509Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e8b"
+  },
+  "name": "Nova NHT 1052 Trimmer (Black)",
+  "slug": "nova-nht-1052-trimmer-black-0c7e8b",
+  "description": "Cordless USB trimmer with adjustable combs and a rechargeable battery.",
+  "price": 16,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074456/ecommerce/products/tsjldyfn3uol6eo0xoa2.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074456/ecommerce/products/jqske9z6h9jaoovpn9nm.webp"
+  ],
+  "stock": 75,
+  "brand": "Nova",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:07:36.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e8c"
+  },
+  "name": "Nova NHT 1058 Waterproof Trimmer (Grey)",
+  "slug": "nova-nht-1058-waterproof-trimmer-grey-0c7e8c",
+  "description": "Waterproof cordless trimmer for beard and body grooming with multiple settings.",
+  "price": 18,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074445/ecommerce/products/kzicbziixuzlxzjtm9d2.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074445/ecommerce/products/ojbhrol1b2vbxx6gpefq.webp"
+  ],
+  "stock": 70,
+  "brand": "Nova",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:07:26.233Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e8d"
+  },
+  "name": "Nova NHT 1073-00 Trimmer (Black, Blue)",
+  "slug": "nova-nht-1073-00-trimmer-black-blue-0c7e8d",
+  "description": "Rechargeable grooming trimmer with adjustable length settings and a comfortable grip.",
+  "price": 17,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074429/ecommerce/products/td2l4u3fb6nez3ag4gsb.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074429/ecommerce/products/qdfpp3rqluvigneisxve.webp"
+  ],
+  "stock": 70,
+  "brand": "Nova",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:07:09.974Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e8e"
+  },
+  "name": "Philips BT1232-15 Beard Trimmer (Blue)",
+  "slug": "philips-bt1232-15-beard-trimmer-blue-0c7e8e",
+  "description": "Cordless beard trimmer with adjustable length settings and durable self-sharpening blades.",
+  "price": 25,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074409/ecommerce/products/exnf1kyzypi14q6woxum.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074409/ecommerce/products/ktg3cj2igvh30xvlsikv.webp"
+  ],
+  "stock": 60,
+  "brand": "Philips",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:06:50.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e8f"
+  },
+  "name": "Syska HT200U Trimmer (Black)",
+  "slug": "syska-ht200u-trimmer-black-0c7e8f",
+  "description": "USB-rechargeable trimmer with multiple length combs for precise, cordless grooming.",
+  "price": 16,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074395/ecommerce/products/dalxs6ev1qq8npj1vant.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074395/ecommerce/products/dpwdfez2qbz3saeskdev.webp"
+  ],
+  "stock": 75,
+  "brand": "Syska",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:06:36.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e90"
+  },
+  "name": "Syska HT450-Apache Trimmer (Green)",
+  "slug": "syska-ht450-apache-trimmer-green-0c7e90",
+  "description": "Cordless grooming trimmer with adjustable settings and long rechargeable runtime.",
+  "price": 19,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e17"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074375/ecommerce/products/ismogfgxwh5bsiucxxk5.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074375/ecommerce/products/m80vi31dwxiskyfnun5c.webp"
+  ],
+  "stock": 65,
+  "brand": "Syska",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:06:16.811Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e91"
+  },
+  "name": "Acer I Series 127 cm (50 inch) 4K Ultra HD Smart TV (AR2851UDFL)",
+  "slug": "acer-i-series-127-cm-50-inch-4k-ultra-hd-smart-tv-ar2851udfl-0c7e91",
+  "description": "50-inch 4K Ultra HD smart TV with vibrant colour and built-in streaming apps.",
+  "price": 549,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075234/ecommerce/products/qxfvybmoogufga5wkodu.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075234/ecommerce/products/qgax71ijff8ynkxkvul4.webp"
+  ],
+  "stock": 15,
+  "brand": "Acer",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:20:34.946Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e92"
+  },
+  "name": "iFFALCON by TCL 100 cm (40 inch) Android 11 Smart TV (40F53)",
+  "slug": "iffalcon-by-tcl-100-cm-40-inch-android-11-smart-tv-40f53-0c7e92",
+  "description": "40-inch Full HD Android 11 smart TV with built-in Google apps and crisp visuals.",
+  "price": 329,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075221/ecommerce/products/gqtrj9dqb5qgjduzszaw.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075221/ecommerce/products/qwttfnuabfkr5hsmkixe.webp"
+  ],
+  "stock": 18,
+  "brand": "iFFALCON",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:20:22.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e93"
+  },
+  "name": "LG 123 cm (49 inch) 4K UHD Smart WebOS TV (49UK7500PTA)",
+  "slug": "lg-123-cm-49-inch-4k-uhd-smart-webos-tv-49uk7500pta-0c7e93",
+  "description": "49-inch 4K UHD smart TV running WebOS with Active HDR and sharp detail.",
+  "price": 599,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075202/ecommerce/products/aflgj0hlmdrcp8mf0sfx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075202/ecommerce/products/vfu6tzs3lbaic3mmaxxn.webp"
+  ],
+  "stock": 12,
+  "brand": "LG",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:20:03.832Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e94"
+  },
+  "name": "LG 123 cm (49 inch) Smart WebOS TV",
+  "slug": "lg-123-cm-49-inch-smart-webos-tv-0c7e94",
+  "description": "LG 49-inch smart TV with WebOS, vivid picture quality and built-in streaming. Possible duplicate of 49UK7500PTA — verify.",
+  "price": 579,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075190/ecommerce/products/uct0flopwg5yznvzsmqf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075190/ecommerce/products/zumio33bpdhyuj2hhvyi.webp"
+  ],
+  "stock": 12,
+  "brand": "LG",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:19:51.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e95"
+  },
+  "name": "LG 164 cm (65 inch) OLED 4K Smart TV",
+  "slug": "lg-164-cm-65-inch-oled-4k-smart-tv-0c7e95",
+  "description": "65-inch OLED 4K smart TV with self-lit pixels, deep blacks and Dolby Vision.",
+  "price": 1799,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075161/ecommerce/products/u4f49l0curyu0dshoatf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075161/ecommerce/products/mqjvciubxeb8x5yui4wx.webp"
+  ],
+  "stock": 6,
+  "brand": "LG",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:19:22.951Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e96"
+  },
+  "name": "Mi 5A 100 cm (40 inch) Full HD Smart TV (2022 Model)",
+  "slug": "mi-5a-100-cm-40-inch-full-hd-smart-tv-2022-model-0c7e96",
+  "description": "40-inch Full HD Android smart TV with vivid visuals and built-in apps.",
+  "price": 299,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075151/ecommerce/products/grbqyq4l11xoaeyjnf4z.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075151/ecommerce/products/w3rz3k7igm0tcmqbz20y.webp"
+  ],
+  "stock": 20,
+  "brand": "Mi",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:19:12.384Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e97"
+  },
+  "name": "Motorola ZX2 100 cm (40 inch) Full HD Smart TV (40SAFHDME)",
+  "slug": "motorola-zx2-100-cm-40-inch-full-hd-smart-tv-40safhdme-0c7e97",
+  "description": "40-inch Full HD smart TV with immersive sound and built-in streaming.",
+  "price": 289,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075134/ecommerce/products/kgfiac7llxat6ml8z2y0.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075134/ecommerce/products/lgfnjl0fv7742l0vfim8.webp"
+  ],
+  "stock": 18,
+  "brand": "Motorola",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:18:55.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e98"
+  },
+  "name": "OnePlus Y1 100 cm (40 inch) Full HD LED Smart TV (40FA1A00)",
+  "slug": "oneplus-y1-100-cm-40-inch-full-hd-led-smart-tv-40fa1a00-0c7e98",
+  "description": "40-inch Full HD smart TV with a bezel-light design and built-in Android apps.",
+  "price": 319,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075118/ecommerce/products/uckqatgm4nxsxwxf7n7s.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075118/ecommerce/products/qkyjgslnsn8pmztoqpth.webp"
+  ],
+  "stock": 18,
+  "brand": "OnePlus",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:18:39.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e99"
+  },
+  "name": "Panasonic 100 cm (40 inch) Full HD Smart TV (TH-40HS450DX)",
+  "slug": "panasonic-100-cm-40-inch-full-hd-smart-tv-th-40hs450dx-0c7e99",
+  "description": "40-inch Full HD smart TV with vibrant colour and built-in streaming apps.",
+  "price": 309,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075107/ecommerce/products/lajtssw5px69wzbo8igx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075107/ecommerce/products/axs375a1x8nq2fexy1yc.webp"
+  ],
+  "stock": 16,
+  "brand": "Panasonic",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:18:28.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e9a"
+  },
+  "name": "realme 80 cm (32 inch) HD Ready Android TV (TV 32)",
+  "slug": "realme-80-cm-32-inch-hd-ready-android-tv-tv-32-0c7e9a",
+  "description": "32-inch HD Ready Android smart TV with a slim bezel and built-in Google apps.",
+  "price": 179,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075093/ecommerce/products/u6lvv0stwq8oqhxn644g.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075093/ecommerce/products/ffgfo0ahgjz85i6pziej.webp"
+  ],
+  "stock": 25,
+  "brand": "realme",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:18:14.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e9b"
+  },
+  "name": "Samsung 80 cm (32 inch) HD Ready Smart TV",
+  "slug": "samsung-80-cm-32-inch-hd-ready-smart-tv-0c7e9b",
+  "description": "32-inch HD Ready smart TV with crisp picture and a full smart-app suite.",
+  "price": 199,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075074/ecommerce/products/yula2i1v8jzqosusdwnk.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075074/ecommerce/products/sakw3lxeveqtmrndtfys.webp"
+  ],
+  "stock": 22,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:17:56.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e9c"
+  },
+  "name": "Samsung 108 cm (43 inch) 4K Ultra HD Smart TV (43TU8570)",
+  "slug": "samsung-108-cm-43-inch-4k-ultra-hd-smart-tv-43tu8570-0c7e9c",
+  "description": "43-inch 4K UHD smart TV with the Crystal Processor and vibrant HDR visuals.",
+  "price": 449,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075063/ecommerce/products/hnnjmzqd6cf2iqqnlxtl.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075062/ecommerce/products/elmhgcbrpycbjxqhga4p.webp"
+  ],
+  "stock": 15,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:17:44.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e9d"
+  },
+  "name": "Samsung 163 cm (65 inch) 4K Ultra HD Smart TV",
+  "slug": "samsung-163-cm-65-inch-4k-ultra-hd-smart-tv-0c7e9d",
+  "description": "65-inch 4K UHD smart TV with immersive picture quality and smart features.",
+  "price": 899,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075051/ecommerce/products/esgqtniep0cghzyugzq9.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075051/ecommerce/products/madnoohhay6uvocyrw3i.webp"
+  ],
+  "stock": 8,
+  "brand": "Samsung",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:17:32.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e9e"
+  },
+  "name": "Samsung Q Series 163 cm (65 inch) QLED 4K Smart TV (65Q7FN)",
+  "slug": "samsung-q-series-163-cm-65-inch-qled-4k-smart-tv-65q7fn-0c7e9e",
+  "description": "65-inch QLED 4K smart TV with Quantum Dot colour and premium contrast.",
+  "price": 1199,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e18"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075037/ecommerce/products/rw2y2muswaza12mg0iuu.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075037/ecommerce/products/qrcntx9lvinq0e1pfixd.webp"
+  ],
+  "stock": 7,
+  "brand": "Samsung",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:17:18.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e9f"
+  },
+  "name": "boAt Cosmos Pro",
+  "slug": "boat-cosmos-pro-0c7e9f",
+  "description": "Smartwatch with a large AMOLED display, Bluetooth calling and multiple sports modes.",
+  "price": 44,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075547/ecommerce/products/yhd7as4vztf1fysdfobf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075548/ecommerce/products/kikdsnz0qwsdtzat2xty.webp"
+  ],
+  "stock": 60,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:25:49.046Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea0"
+  },
+  "name": "boAt Storm",
+  "slug": "boat-storm-0c7ea0",
+  "description": "Feature-packed smartwatch with a colour display, heart-rate tracking and multiple watch faces.",
+  "price": 29,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075538/ecommerce/products/kevysk6gj75p6l3uw1lg.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075538/ecommerce/products/txpsohiqncritnymvbjv.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:25:39.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea1"
+  },
+  "name": "boAt Storm Call",
+  "slug": "boat-storm-call-0c7ea1",
+  "description": "Smartwatch with Bluetooth calling, a bright display and daily activity tracking.",
+  "price": 34,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075530/ecommerce/products/tta3caqevbifpuv16fdc.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075530/ecommerce/products/innrkvfgb4xrzzkpq1ss.webp"
+  ],
+  "stock": 65,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:25:31.132Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea2"
+  },
+  "name": "boAt Storm Pro Call",
+  "slug": "boat-storm-pro-call-0c7ea2",
+  "description": "Premium-feel smartwatch with Bluetooth calling, a large display and health tracking.",
+  "price": 39,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075520/ecommerce/products/kwsejhffnolplepfht69.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075520/ecommerce/products/fvwmzwekoop1crqcmmgs.webp"
+  ],
+  "stock": 55,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:25:21.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea3"
+  },
+  "name": "boAt Storm RTL",
+  "slug": "boat-storm-rtl-0c7ea3",
+  "description": "Stylish smartwatch with a vivid display, heart-rate monitoring and long battery life.",
+  "price": 32,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075510/ecommerce/products/ogtewsyf5doungq2dm7l.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075510/ecommerce/products/lcmvtkvge8qticnvdy20.webp"
+  ],
+  "stock": 60,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:25:11.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea4"
+  },
+  "name": "boAt TRebel Blaze",
+  "slug": "boat-trebel-blaze-0c7ea4",
+  "description": "Smartwatch from the TRebel line with a bold design, colour display and fitness tracking.",
+  "price": 36,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075501/ecommerce/products/c0y6xaz5vcnmepjsbzuj.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075501/ecommerce/products/xahw6kccskq8nqllheyo.webp"
+  ],
+  "stock": 55,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:25:02.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea5"
+  },
+  "name": "boAt TRebel Matrix",
+  "slug": "boat-trebel-matrix-0c7ea5",
+  "description": "Feature-rich smartwatch with a large display, health tracking and customizable faces.",
+  "price": 38,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075490/ecommerce/products/duancer7hp0shusf4fql.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075490/ecommerce/products/f62xpdjsfbfwbyzdfmld.webp"
+  ],
+  "stock": 50,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:24:51.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea6"
+  },
+  "name": "boAt Wave Beat",
+  "slug": "boat-wave-beat-0c7ea6",
+  "description": "Everyday smartwatch with a colour display, heart-rate and SpO2 tracking and sports modes.",
+  "price": 27,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075479/ecommerce/products/l0hla0jsugw2gto1fuaq.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075479/ecommerce/products/e2lywvsix3j2hqmcfyjc.webp"
+  ],
+  "stock": 75,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:24:40.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea7"
+  },
+  "name": "boAt Wave Beat Call",
+  "slug": "boat-wave-beat-call-0c7ea7",
+  "description": "Smartwatch with Bluetooth calling, a bright display and comprehensive activity tracking.",
+  "price": 31,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075468/ecommerce/products/tqmn6gvds3pbysm3r49y.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075468/ecommerce/products/vyj4dg3y9cvthkzcgmdm.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:24:30.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea8"
+  },
+  "name": "boAt Wave Call",
+  "slug": "boat-wave-call-0c7ea8",
+  "description": "Bluetooth-calling smartwatch with a large display and daily health monitoring.",
+  "price": 33,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075457/ecommerce/products/gzcur4ywvtqayl2iro9f.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075458/ecommerce/products/kw2feviychiqpvyfif25.webp"
+  ],
+  "stock": 65,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:24:18.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7ea9"
+  },
+  "name": "boAt Wave Connect",
+  "slug": "boat-wave-connect-0c7ea9",
+  "description": "Smartwatch with Bluetooth calling, a big display and multiple sports and health features.",
+  "price": 35,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075447/ecommerce/products/zuimiwxwhcnmngmqesnx.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075447/ecommerce/products/yjsmz4mzbdhhewjb2iuv.webp"
+  ],
+  "stock": 60,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:24:08.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7eaa"
+  },
+  "name": "boAt Wave Lite",
+  "slug": "boat-wave-lite-0c7eaa",
+  "description": "Lightweight smartwatch with a 1.69-inch display, health tracking and long battery life.",
+  "price": 25,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075436/ecommerce/products/utelfdqbbpvwjqzggxuf.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075436/ecommerce/products/orfgnhdjpwombcloducz.webp"
+  ],
+  "stock": 75,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:23:57.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7eab"
+  },
+  "name": "boAt Wave Play",
+  "slug": "boat-wave-play-0c7eab",
+  "description": "Smartwatch with a large display, music-friendly features and daily fitness tracking.",
+  "price": 26,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075423/ecommerce/products/f4f0lrl8z56fpmnyn4ma.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:23:44.307Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7eac"
+  },
+  "name": "boAt Wave Prime 47",
+  "slug": "boat-wave-prime-47-0c7eac",
+  "description": "Smartwatch with a 1.47-inch display, heart-rate tracking and multiple sports modes.",
+  "price": 28,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e19"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075412/ecommerce/products/vjeqjsflfs8pklhuhpwl.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075412/ecommerce/products/holf6xmus3jooahluswt.webp"
+  ],
+  "stock": 70,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "__v": 1,
+  "createdAt": {
+    "$date": "2026-09-10T15:56:12.988Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:23:33.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa31d9aa28856f959b21096"
+  },
+  "name": "boAt BLITZ 2000",
+  "slug": "boat-blitz-2000-mtw0yvr8",
+  "description": "Powerful multimedia speaker with deep bass and bold sound for home entertainment. Verify brand and model.",
+  "price": 49,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074812/ecommerce/products/zk4jpei4gib8dqvptqwb.webp"
+  ],
+  "stock": 40,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2026-09-10T21:14:02.951Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:14:02.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa31df8a28856f959b210b0"
+  },
+  "name": "boAt Rugby Plus",
+  "slug": "boat-rugby-plus-mtw10w0t",
+  "description": "Rugged portable Bluetooth speaker with a carry strap, deep bass and long playtime.",
+  "price": 39,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074935/ecommerce/products/fmifj02xifqryyuvjese.webp",
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789074935/ecommerce/products/pjypzjuj8aedes3vcero.webp"
+  ],
+  "stock": 50,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2026-09-10T21:15:36.606Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:15:36.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa31f66a28856f959b211db"
+  },
+  "name": "boAt Rugby",
+  "slug": "boat-rugby-mtw18qe1",
+  "description": "Portable Bluetooth speaker with a sturdy build, punchy sound and all-day battery.",
+  "price": 32,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075298/ecommerce/products/wd3spgb0qikdkzfbabcf.webp"
+  ],
+  "stock": 55,
+  "brand": "boAt",
+  "featured": false,
+  "rating": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2026-09-10T21:21:42.554Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:21:42.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aa31fa9a28856f959b211ee"
+  },
+  "name": "boAt Stone 170",
+  "slug": "boat-stone-170-mtw1a6ak",
+  "description": "Compact portable Bluetooth speaker with boAt Signature Sound and IPX water resistance.",
+  "price": 22,
+  "compareAtPrice": 29,
+  "category": {
+    "$oid": "6aa2d31cc5b0e2b4c10c7e16"
+  },
+  "images": [
+    "https://res.cloudinary.com/dugwko0yj/image/upload/v1789075369/ecommerce/products/bhiz5oqrg3csn0kl5rlx.webp"
+  ],
+  "stock": 90,
+  "brand": "boAt",
+  "featured": true,
+  "rating": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2026-09-10T21:22:49.821Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-10T21:22:49.821Z"
+  },
+  "__v": 0
+}]
